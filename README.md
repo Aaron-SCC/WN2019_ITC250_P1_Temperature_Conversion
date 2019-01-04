@@ -22,6 +22,7 @@ aaron.lewis@seattlcentral.edu
 
 
 2019_01_03 : 06:00 PM Initial to-do list/assign roles
+
     Aaron setup github repo for area and setup contributors
     
     Everyone read and RE-READ project requirements  ;  then meet and discuss and agree
