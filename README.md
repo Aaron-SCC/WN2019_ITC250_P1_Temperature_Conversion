@@ -16,6 +16,10 @@ firshtashefa@gmail.com
 aaron.lewis@seattlcentral.edu 
 
 
+<br>
+<br>
+<br>
+
 
 2019_01_03 : 06:00 PM Initial to-do list/assign roles
     Aaron setup github repo for area and setup contributors
