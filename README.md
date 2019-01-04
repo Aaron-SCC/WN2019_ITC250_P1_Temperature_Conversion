@@ -9,8 +9,8 @@ readme file
 
 
         Email addresses:
-andy787@gmail.com
-firshtashefa@gmail.com
+andy787@gmail.com \n
+firshtashefa@gmail.com \n
 aaron.lewis@seattlcentral.edu 
 
 
