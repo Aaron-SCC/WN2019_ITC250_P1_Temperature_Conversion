@@ -1,0 +1,27 @@
+﻿P1: Temperature Conversion Work Log
+
+
+
+
+
+
+
+
+        Email addresses:
+andy787@gmail.com
+firshtashefa@gmail.com
+aaron.lewis@seattlcentral.edu 
+
+
+
+
+
+
+
+
+2019_01_03 : 06:00 PM Initial to-do list/assign roles
+1.  Aaron setup github repo for area and setup contributors
+2.  Everyone read and RE-READ project requirements  ;  then meet and discuss and agree
+3. Aaron to code up (brush up wake up) python code of project (maybe get with Andy)
+4. Andy to setup Slack account
+5. Project Manager Organizer : Firshta
